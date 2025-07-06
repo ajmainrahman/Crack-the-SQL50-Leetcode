@@ -2,7 +2,7 @@
 
 ---
 
-### 🟦 SELECT – *Easy*
+### SELECT – *Easy*
 
 1. 1757 Recyclable and Low Fat Products
 2. 584 Find Customer Referee
@@ -22,7 +22,7 @@
 
 ---
 
-### 🟨 AGGREGATION & GROUP BY – *Easy/Medium*
+### AGGREGATION & GROUP BY – *Easy/Medium*
 
 16. Average Selling Price
 17. Project Employees I
@@ -34,7 +34,7 @@
 
 ---
 
-### 🟩 SORTING & GROUPING – *Easy*
+### SORTING & GROUPING – *Easy*
 
 23. Number of Unique Subjects Taught by Each Teacher
 24. User Activity for the Past 30 Days I
@@ -46,7 +46,7 @@
 
 ---
 
-### 🟪 ADVANCED SELECT & JOINS – *Easy/Medium*
+### ADVANCED SELECT & JOINS – *Easy/Medium*
 
 30. The Number of Employees Which Report to Each Employee
 31. Primary Department for Each Employee
@@ -58,7 +58,7 @@
 
 ---
 
-### 🔵 SUBQUERIES & CTEs – *Easy/Medium/Hard*
+### SUBQUERIES & CTEs – *Easy/Medium/Hard*
 
 37. Employees Whose Manager Left the Company
 38. Exchange Seats
@@ -70,7 +70,7 @@
 
 ---
 
-### 🟤 ADVANCED STRING FUNCTIONS / REGEX / CLAUSE – *Easy/Medium*
+### ADVANCED STRING FUNCTIONS / REGEX / CLAUSE – *Easy/Medium*
 
 44. Fix Names in a Table
 45. Patients With a Condition
@@ -79,9 +79,3 @@
 48. Group Sold Products By The Date
 49. List the Products Ordered in a Period
 50. Find Users With Valid E‑Mails
-
----
-
-If you'd like, I can dive further into any of these—providing **full problem descriptions**, **sample schemas**, and **SQL solutions**. Just let me know which ones interest you!
-
-[1]: https://www.scribd.com/document/826454318/Leetcode-all-sql-questions-solutions-notes?utm_source=chatgpt.com "Leetcode all sql questions solutions notes | PDF - Scribd"
